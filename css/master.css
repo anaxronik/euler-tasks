@@ -1,0 +1,33 @@
+html {
+       /* font-family: Geneva, Arial, Helvetica, sans-serif; */
+       background-color: whitesmoke; /* Цвет фона веб-страницы */
+
+      }
+
+
+body{
+    background-color: white; /* Цвет фона веб-страницы */
+    width: 1000px;
+    /* border: 1px solid silver; */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    font-family: arial,sans-serif;
+   }
+
+.content{
+  /* background-color: red; */
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid silver;
+  border-radius: 10px;
+}
+h1{
+  text-align: center;
+}
+
+
+h2{
+  text-align: center;
+  color: Gray;
+}
